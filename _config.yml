@@ -1,7 +1,7 @@
 title: 改造人009资源站
 email: ll631@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Powered by [jekyll](https://github.com/jekyll/jekyll)
+  Powered by jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

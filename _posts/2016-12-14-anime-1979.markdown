@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【动画】[TV][1979]サイボーグ009"
-date:   2014-11-23
+date:   2016-12-14 13:00:00 +0800
 categories: cyborg009
 ---
 
